@@ -1,0 +1,1 @@
+this is the README.md am creating during the first day of the start od ALX program.
